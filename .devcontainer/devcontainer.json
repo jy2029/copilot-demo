@@ -2,8 +2,6 @@
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {
     "ghcr.io/devcontainers/features/python:1": {},
-    "ghcr.io/hspaans/devcontainer-features/django-upgrade:1": {},
-    "ghcr.io/devcontainers-extra/features/jmc-sdkman:2": {"jdkVersion":8},
-    "ghcr.io/devcontainers/features/aws-cli:1": {}
+    "ghcr.io/hspaans/devcontainer-features/django-upgrade:1": {}
   }
 }
